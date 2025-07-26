@@ -1,0 +1,1 @@
+// Placeholder for page.tsx – replace with your full app code
